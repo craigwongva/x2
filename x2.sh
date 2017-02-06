@@ -1,1 +1,1 @@
-echo hello from x2
+echo hello from x2 remotely
